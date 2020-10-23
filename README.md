@@ -1,5 +1,5 @@
 # ScriptableApp Scripts
-This repository is a list of public shared gists for the wonderful [ScriptableApp](https://scriptable.app) (The official forum can be found)
+This repository is a list of public shared gists for the wonderful [ScriptableApp](https://scriptable.app)
 
 | Script Name | Purpose | Image | Gist-Link|
 | --- | --- | --- | --- |
